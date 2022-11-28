@@ -8,7 +8,7 @@ A neural network with multiple hidden layers and multiple nodes in each hidden l
 Here the basic neural network model has been created with one input layer, one hidden layer and one output layer.The number of neurons(UNITS) in each layer varies the 1st input layer has 16 units and hidden layer has 8 units and output layer has one unit.
 In this basic NN Model, we have used "relu" activation function in input and hidden layer, relu(RECTIFIED LINEAR UNIT) Activation function is a piece-wise linear function that will output the input directly if it is positive and zero if it is negative.  
 ## Neural Network Model
-![image](https://user-images.githubusercontent.com/75235488/187118111-672bca5f-1969-49b2-a382-6f5928f9e7d1.png)
+<img src ="https://user-images.githubusercontent.com/75235488/187118111-672bca5f-1969-49b2-a382-6f5928f9e7d1.png" width ="50%" height="40%"> <br />
 ## DESIGN STEPS
 ### STEP 1:
 Loading the dataset
